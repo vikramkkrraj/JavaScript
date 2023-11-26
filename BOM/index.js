@@ -1,0 +1,13 @@
+// location.reload();
+// history
+// innerHeight
+// innerWeight
+// outerHeight
+// open()
+// close()
+// resizeBy()
+// resizeTo()
+// moveTo()
+// moveBy()
+// scrollBy()
+// scroll()
